@@ -1,0 +1,35 @@
+﻿<UserControl x:Class="WpfApp1.speedometer"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:ed="http://schemas.microsoft.com/expression/2010/drawing"
+             d:DesignHeight="300" d:DesignWidth="300"        
+        mc:Ignorable="d">
+
+    <Grid Background="#FF2E2F45">
+        <Grid Margin="0,0,0,-120">
+            <ed:Arc StartAngle="-120" EndAngle="120" Stretch="None" 
+                    Height="300" Width="300" StrokeThickness="20"      
+                    StrokeDashArray=".25" Stroke="#FF484D5F">
+                <ed:Arc.BindingGroup>
+                    <BindingGroup/>
+                </ed:Arc.BindingGroup>
+            </ed:Arc>
+            <ed:Arc StartAngle="-120" EndAngle="-35" Stretch="None" 
+                    Height="300" Width="300" StrokeThickness="20"
+                    StrokeDashArray=".25" Stroke="Turquoise"/>
+        </Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center"
+                    Margin="0,0,0,-50">
+            <TextBlock Text="km/h" Foreground="#FF878A9F" HorizontalAlignment="Center"
+                        FontSize="14"/>
+            <TextBlock Text="43" Foreground="White" HorizontalAlignment="Center"
+                        FontSize="110" FontWeight="Light" Margin="0,-25,0,0">
+                <TextBlock.BindingGroup>
+                    <BindingGroup/>
+                </TextBlock.BindingGroup>
+            </TextBlock>
+        </StackPanel>
+    </Grid>
+</UserControl>

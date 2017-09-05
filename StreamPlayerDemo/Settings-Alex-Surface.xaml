@@ -1,0 +1,61 @@
+﻿<Window x:Class="CameraApplication.Settings"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        xmlns:local="clr-namespace:CameraApplication"
+        mc:Ignorable="d"
+        Title="Settings" Height="480" Width="640">
+
+    <Window.CommandBindings>
+        <CommandBinding Command="ApplicationCommands.Close"
+                        Executed="CloseCommandHandler"/>
+    </Window.CommandBindings>
+
+    <Grid>
+        <Label Content="Settings" HorizontalAlignment="Right" Margin="0,0,10,0" VerticalAlignment="Top" Width="612" HorizontalContentAlignment="Center" FontSize="20"/>
+        <Button  x:Name="save_btn" Content="Save" HorizontalAlignment="Left" Margin="547,419,0,0" VerticalAlignment="Top" Width="75" Click="save_btn_Click"/>
+        <Button x:Name="cancel_btn" Content="Cancel" HorizontalAlignment="Left" Margin="456,419,0,0" VerticalAlignment="Top" Width="75" Click="cancelButton_Click" Command="ApplicationCommands.Close" />
+        <Label Content="Com Port Settings" HorizontalAlignment="Left" Margin="10,42,0,0" VerticalAlignment="Top" Width="105"/>
+        <Rectangle HorizontalAlignment="Left" Height="74" Margin="10,302,0,0" Stroke="#FF484D5F" StrokeThickness="0.5" VerticalAlignment="Top" Width="612"/>
+
+        <!--GPS Settings Section-->
+        <Label Content="Current GPS Com Port:" HorizontalAlignment="Left" Margin="10,73,0,0" VerticalAlignment="Top" Width="130"/>
+        <Label Name="gpsComName" Content="" HorizontalAlignment="Left" Margin="145,73,0,0" VerticalAlignment="Top" Width="96"/>
+        <Label Name="gpsComBaud" Content="" HorizontalAlignment="Left" Margin="316,73,0,0" VerticalAlignment="Top" Width="82"/>
+        <Label Content="Baud Rate:" HorizontalAlignment="Left" Margin="246,73,0,0" VerticalAlignment="Top" Width="65" RenderTransformOrigin="0.42,0.561"/>
+        <CheckBox Name="gpsAutosetOn" Content="AutoSet On Next Start" HorizontalAlignment="Left" Margin="413,79,0,0" VerticalAlignment="Top" ToolTip="AutoSet Com Port for GPS on startup (will take longer to start application)" Height="17" Width="137"/>
+        <Label Content="Manualy Set GPS Port:" HorizontalAlignment="Left" Margin="10,104,0,0" VerticalAlignment="Top" Width="130"/>
+        <ComboBox x:Name="comPortList" HorizontalAlignment="Left" ToolTip="Pick a Com Port To Use" Height="26" Margin="145,104,0,0" VerticalAlignment="Top" Width="96" Initialized="comPortList_Initialized" SelectionChanged="comPortList_SelectionChanged"/>
+        <ComboBox x:Name="gpsComBaudSet"  HorizontalAlignment="Left" Height="26" Margin="316,104,0,0" VerticalAlignment="Top" Width="82" Initialized="gpsComBaudSet_Initialized" SelectionChanged="gpsComBaudSet_SelectionChanged"/>
+        <Label Content="Baud Rate:" HorizontalAlignment="Left"  Margin="246,104,0,0" VerticalAlignment="Top" Width="65" RenderTransformOrigin="0.42,0.561"/>
+        <CheckBox x:Name="gpsManualSet_on" Content="Use Manual Settings" HorizontalAlignment="Left" Margin="413,110,0,0" VerticalAlignment="Top" ToolTip="AutoSet Com Port for GPS on startup (will take longer to start application)" Height="17" Width="137" Click="gpsManualSet_on_Click"/>
+        <Label Content="Com Port Settings" HorizontalAlignment="Left" Margin="10,42,0,0" VerticalAlignment="Top" Width="105"/>
+
+        <!--Unit Settings Section-->
+        <Label Content="Unit Settings" HorizontalAlignment="Left" Margin="10,153,0,0" VerticalAlignment="Top" Width="105"/>
+        <Rectangle HorizontalAlignment="Left" Height="74" Margin="10,179,0,0" Stroke="#FF484D5F" StrokeThickness="0.5" VerticalAlignment="Top" Width="612"/>
+        <Label Content="Altitude Units:" HorizontalAlignment="Left" Margin="10,184,0,0" VerticalAlignment="Top" Width="130"/>
+        <RadioButton x:Name="altitudeUseFeet" GroupName="altitudeUnit" Content="Use Feet" HorizontalAlignment="Left" Margin="145,190,0,0" VerticalAlignment="Top" ToolTip="AutoSet Com Port for GPS on startup (will take longer to start application)" Height="17" Width="96"/>
+        <RadioButton x:Name="altitudeUseMeters" GroupName="altitudeUnit" Content="Use Meters" HorizontalAlignment="Left" Margin="246,190,0,0" VerticalAlignment="Top" ToolTip="AutoSet Com Port for GPS on startup (will take longer to start application)" Height="17" Width="96" IsChecked="True"/>
+        <Label Content="Speed Units:" HorizontalAlignment="Left" Margin="10,216,0,0" VerticalAlignment="Top" Width="130"/>
+        <RadioButton x:Name="speedUseKnots" GroupName="speedUnit" Content="Use Knots" HorizontalAlignment="Left" Margin="145,222,0,0" VerticalAlignment="Top" ToolTip="AutoSet Com Port for GPS on startup (will take longer to start application)" Height="17" Width="96"/>
+        <RadioButton x:Name="speedUseMperS" GroupName="speedUnit" Content="Use m/s" HorizontalAlignment="Left" Margin="246,222,0,0" VerticalAlignment="Top" ToolTip="AutoSet Com Port for GPS on startup (will take longer to start application)" Height="17" Width="96" IsChecked="True"/>
+
+        <!--Camera Settings Section-->
+        <Label Content="Current Camera IPs:" HorizontalAlignment="Left" Margin="10,310,0,0" VerticalAlignment="Top" Width="130"/>
+        <xctk:CheckComboBox x:Name="camIp" HorizontalAlignment="Left" Margin="145,310,0,0" VerticalAlignment="Top" Width="96" Height="26" Initialized="camIp_Initialized"/>
+        <Label x:Name="camLanIp" Content="" HorizontalAlignment="Left" Margin="313,310,0,0" VerticalAlignment="Top" Width="85"/>
+        <Label Content="X:" HorizontalAlignment="Left" Margin="246,310,0,0" VerticalAlignment="Top" Width="65" RenderTransformOrigin="0.42,0.561"/>
+        <RadioButton x:Name="useDefaultCamIp" GroupName="cameraManualIP" Content="Use Default Settings" HorizontalAlignment="Left" Margin="413,316,0,0" VerticalAlignment="Top" ToolTip="AutoSet Com Port for GPS on startup (will take longer to start application)" Height="17" Width="137"/>
+        <Label Content="Manualy Set IPs:" HorizontalAlignment="Left" Margin="10,341,0,0" VerticalAlignment="Top" Width="130"/>
+        <Label Content="X:" HorizontalAlignment="Left"  Margin="246,341,0,0" VerticalAlignment="Top" Width="65" RenderTransformOrigin="0.42,0.561"/>
+        <RadioButton x:Name="useManualCamIp"  GroupName="cameraManualIP" Content="Use Manual Settings" HorizontalAlignment="Left" Margin="413,347,0,0" VerticalAlignment="Top" ToolTip="AutoSet Com Port for GPS on startup (will take longer to start application)" Height="17" Width="137" Click="gpsManualSet_on_Click"/>
+        <Rectangle HorizontalAlignment="Left" Height="74" Margin="10,68,0,0" Stroke="#FF484D5F" StrokeThickness="0.5" VerticalAlignment="Top" Width="612"/>
+        <Label Content="Camera Settings" HorizontalAlignment="Left" Margin="10,276,0,0" VerticalAlignment="Top" Width="105"/>
+        <TextBox x:Name="manualLanIP"  HorizontalAlignment="Left" Margin="316,338,0,0" VerticalAlignment="Top" Width="82" Height="26" BorderThickness="0,0,0,1" VerticalContentAlignment="Bottom" ToolTip="Enter 'X' (192.168.Z.X)"/>
+        <xctk:CheckComboBox Name="manualCamIp" HorizontalAlignment="Left" Height="26" Margin="145,341,0,0" VerticalAlignment="Top" Width="96"/>
+
+    </Grid>
+</Window>

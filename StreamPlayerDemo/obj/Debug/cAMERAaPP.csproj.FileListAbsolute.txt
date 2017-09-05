@@ -1,0 +1,336 @@
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\WpfSources\CameraApp\StreamPlayerDemo\bin\Debug\CameraApplication.exe.config
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\WpfSources\CameraApp\StreamPlayerDemo\bin\Debug\CameraApplication.exe.manifest
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\WpfSources\CameraApp\StreamPlayerDemo\bin\Debug\CameraApplication.application
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\WpfSources\CameraApp\StreamPlayerDemo\bin\Debug\CameraApplication.exe
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\WpfSources\CameraApp\StreamPlayerDemo\bin\Debug\CameraApplication.pdb
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\WpfSources\CameraApp\StreamPlayerDemo\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\WpfSources\CameraApp\StreamPlayerDemo\bin\Debug\NmeaParser.WinDesktop.dll
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\WpfSources\CameraApp\StreamPlayerDemo\bin\Debug\WebEye.StreamPlayerControl.dll
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\WpfSources\CameraApp\StreamPlayerDemo\bin\Debug\NmeaParser.WinDesktop.xml
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\WpfSources\CameraApp\StreamPlayerDemo\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\WpfSources\CameraApp\StreamPlayerDemo\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\WpfSources\CameraApp\StreamPlayerDemo\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\WpfSources\CameraApp\StreamPlayerDemo\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\WpfSources\CameraApp\StreamPlayerDemo\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\WpfSources\CameraApp\StreamPlayerDemo\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\WpfSources\CameraApp\StreamPlayerDemo\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\WpfSources\CameraApp\StreamPlayerDemo\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\WpfSources\CameraApp\StreamPlayerDemo\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\WpfSources\CameraApp\StreamPlayerDemo\obj\Debug\cAMERAaPP.csprojResolveAssemblyReference.cache
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\WpfSources\CameraApp\StreamPlayerDemo\obj\Debug\KeyValuePairControl.baml
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\WpfSources\CameraApp\StreamPlayerDemo\obj\Debug\GpggaControl.g.cs
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\WpfSources\CameraApp\StreamPlayerDemo\obj\Debug\GpgllControl.g.cs
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\WpfSources\CameraApp\StreamPlayerDemo\obj\Debug\GprmcControl.g.cs
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\WpfSources\CameraApp\StreamPlayerDemo\obj\Debug\KeyValuePairControl.g.cs
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\WpfSources\CameraApp\StreamPlayerDemo\obj\Debug\MainWindow.g.cs
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\WpfSources\CameraApp\StreamPlayerDemo\obj\Debug\Settings.g.cs
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\WpfSources\CameraApp\StreamPlayerDemo\obj\Debug\App.g.cs
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\WpfSources\CameraApp\StreamPlayerDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\WpfSources\CameraApp\StreamPlayerDemo\obj\Debug\CameraApplication_MarkupCompile.cache
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\WpfSources\CameraApp\StreamPlayerDemo\obj\Debug\CameraApplication_MarkupCompile.lref
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\WpfSources\CameraApp\StreamPlayerDemo\obj\Debug\GpggaControl.baml
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\WpfSources\CameraApp\StreamPlayerDemo\obj\Debug\GpgllControl.baml
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\WpfSources\CameraApp\StreamPlayerDemo\obj\Debug\GprmcControl.baml
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\WpfSources\CameraApp\StreamPlayerDemo\obj\Debug\MainWindow.baml
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\WpfSources\CameraApp\StreamPlayerDemo\obj\Debug\Settings.baml
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\WpfSources\CameraApp\StreamPlayerDemo\obj\Debug\CameraApplication.g.resources
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\WpfSources\CameraApp\StreamPlayerDemo\obj\Debug\CameraApplication.Properties.Resources.resources
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\WpfSources\CameraApp\StreamPlayerDemo\obj\Debug\cAMERAaPP.csproj.GenerateResource.Cache
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\WpfSources\CameraApp\StreamPlayerDemo\obj\Debug\CameraApplication.exe.manifest
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\WpfSources\CameraApp\StreamPlayerDemo\obj\Debug\CameraApplication.application
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\WpfSources\CameraApp\StreamPlayerDemo\obj\Debug\CameraApplication.exe
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\WpfSources\CameraApp\StreamPlayerDemo\obj\Debug\CameraApplication.pdb
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\WpfSources\CameraApp\StreamPlayerDemo\obj\Debug\autoscanProgress.g.cs
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\WpfSources\CameraApp\StreamPlayerDemo\obj\Debug\autoscanProgress.baml
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\WpfSources\CameraApp\StreamPlayerDemo\bin\Debug\ffmpeg\ffmpeg.exe
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\WpfSources\CameraApp\StreamPlayerDemo\bin\Debug\ffmpeg\ffplay.exe
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\WpfSources\CameraApp\StreamPlayerDemo\bin\Debug\ffmpeg\ffprobe.exe
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\WpfSources\CameraApp\StreamPlayerDemo\obj\Debug\CameraApplication_Content.g.cs
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\ffmpeg\ffmpeg.exe
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\ffmpeg\ffplay.exe
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\ffmpeg\ffprobe.exe
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\CameraApplication.exe.config
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\CameraApplication.exe.manifest
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\CameraApplication.application
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\CameraApplication.exe
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\CameraApplication.pdb
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\NmeaParser.WinDesktop.dll
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\NmeaParser.WinDesktop.xml
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\KeyValuePairControl.baml
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\autoscanProgress.g.cs
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\GpggaControl.g.cs
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\GpgllControl.g.cs
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\GprmcControl.g.cs
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\KeyValuePairControl.g.cs
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\MainWindow.g.cs
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\Settings.g.cs
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\App.g.cs
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\CameraApplication_Content.g.cs
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\CameraApplication_MarkupCompile.cache
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\CameraApplication_MarkupCompile.lref
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\autoscanProgress.baml
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\GpggaControl.baml
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\GpgllControl.baml
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\GprmcControl.baml
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\MainWindow.baml
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\Settings.baml
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\CameraApplication.g.resources
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\CameraApplication.Properties.Resources.resources
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\CameraApp.csproj.GenerateResource.Cache
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\CameraApplication.exe.manifest
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\CameraApplication.application
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\CameraApplication.exe
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\CameraApplication.pdb
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\WebEye.StreamPlayerControl.dll
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\NmeaParser.WinDesktop.pdb
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\CameraApp.csprojResolveAssemblyReference.cache
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\CameraView.g.cs
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\CameraView.baml
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\WpfAnimatedGif.dll
+C:\Users\Ken\Desktop\EntAir\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\WpfAnimatedGif.xml
+E:\CameraApp\StreamPlayerDemo\bin\Debug\ffmpeg\adxl345.exe
+E:\CameraApp\StreamPlayerDemo\bin\Debug\ffmpeg\ffmpeg.exe
+E:\CameraApp\StreamPlayerDemo\bin\Debug\ffmpeg\ffplay.exe
+E:\CameraApp\StreamPlayerDemo\bin\Debug\ffmpeg\ffprobe.exe
+E:\CameraApp\StreamPlayerDemo\bin\Debug\CameraApplication.exe.config
+E:\CameraApp\StreamPlayerDemo\bin\Debug\CameraApplication.exe.manifest
+E:\CameraApp\StreamPlayerDemo\bin\Debug\CameraApplication.application
+E:\CameraApp\StreamPlayerDemo\bin\Debug\CameraApplication.exe
+E:\CameraApp\StreamPlayerDemo\bin\Debug\CameraApplication.pdb
+E:\CameraApp\StreamPlayerDemo\bin\Debug\Microsoft.Expression.Drawing.dll
+E:\CameraApp\StreamPlayerDemo\bin\Debug\WpfAnimatedGif.dll
+E:\CameraApp\StreamPlayerDemo\bin\Debug\Xceed.Wpf.AvalonDock.dll
+E:\CameraApp\StreamPlayerDemo\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+E:\CameraApp\StreamPlayerDemo\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+E:\CameraApp\StreamPlayerDemo\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+E:\CameraApp\StreamPlayerDemo\bin\Debug\Xceed.Wpf.DataGrid.dll
+E:\CameraApp\StreamPlayerDemo\bin\Debug\Xceed.Wpf.Toolkit.dll
+E:\CameraApp\StreamPlayerDemo\bin\Debug\NmeaParser.WinDesktop.pdb
+E:\CameraApp\StreamPlayerDemo\bin\Debug\NmeaParser.WinDesktop.xml
+E:\CameraApp\StreamPlayerDemo\bin\Debug\WpfAnimatedGif.xml
+E:\CameraApp\StreamPlayerDemo\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+E:\CameraApp\StreamPlayerDemo\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+E:\CameraApp\StreamPlayerDemo\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+E:\CameraApp\StreamPlayerDemo\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+E:\CameraApp\StreamPlayerDemo\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+E:\CameraApp\StreamPlayerDemo\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+E:\CameraApp\StreamPlayerDemo\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+E:\CameraApp\StreamPlayerDemo\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+E:\CameraApp\StreamPlayerDemo\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+E:\CameraApp\StreamPlayerDemo\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+E:\CameraApp\StreamPlayerDemo\obj\Debug\CameraApp.csprojResolveAssemblyReference.cache
+E:\CameraApp\StreamPlayerDemo\obj\Debug\KeyValuePairControl.baml
+E:\CameraApp\StreamPlayerDemo\obj\Debug\autoscanProgress.g.cs
+E:\CameraApp\StreamPlayerDemo\obj\Debug\CameraView.g.cs
+E:\CameraApp\StreamPlayerDemo\obj\Debug\GpggaControl.g.cs
+E:\CameraApp\StreamPlayerDemo\obj\Debug\GpgllControl.g.cs
+E:\CameraApp\StreamPlayerDemo\obj\Debug\GprmcControl.g.cs
+E:\CameraApp\StreamPlayerDemo\obj\Debug\KeyValuePairControl.g.cs
+E:\CameraApp\StreamPlayerDemo\obj\Debug\MainWindow.g.cs
+E:\CameraApp\StreamPlayerDemo\obj\Debug\Settings.g.cs
+E:\CameraApp\StreamPlayerDemo\obj\Debug\App.g.cs
+E:\CameraApp\StreamPlayerDemo\obj\Debug\CameraApplication_Content.g.cs
+E:\CameraApp\StreamPlayerDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\CameraApp\StreamPlayerDemo\obj\Debug\CameraApplication_MarkupCompile.cache
+E:\CameraApp\StreamPlayerDemo\obj\Debug\CameraApplication_MarkupCompile.lref
+E:\CameraApp\StreamPlayerDemo\obj\Debug\autoscanProgress.baml
+E:\CameraApp\StreamPlayerDemo\obj\Debug\CameraView.baml
+E:\CameraApp\StreamPlayerDemo\obj\Debug\GpggaControl.baml
+E:\CameraApp\StreamPlayerDemo\obj\Debug\GpgllControl.baml
+E:\CameraApp\StreamPlayerDemo\obj\Debug\GprmcControl.baml
+E:\CameraApp\StreamPlayerDemo\obj\Debug\MainWindow.baml
+E:\CameraApp\StreamPlayerDemo\obj\Debug\Settings.baml
+E:\CameraApp\StreamPlayerDemo\obj\Debug\CameraApplication.g.resources
+E:\CameraApp\StreamPlayerDemo\obj\Debug\CameraApplication.Properties.Resources.resources
+E:\CameraApp\StreamPlayerDemo\obj\Debug\CameraApp.csproj.GenerateResource.Cache
+E:\CameraApp\StreamPlayerDemo\obj\Debug\CameraApplication.exe.manifest
+E:\CameraApp\StreamPlayerDemo\obj\Debug\CameraApplication.application
+E:\CameraApp\StreamPlayerDemo\obj\Debug\CameraApplication.exe
+E:\CameraApp\StreamPlayerDemo\obj\Debug\CameraApplication.pdb
+D:\EntAir\CameraApp\StreamPlayerDemo\bin\Debug\ffmpeg\adxl345.exe
+D:\EntAir\CameraApp\StreamPlayerDemo\bin\Debug\ffmpeg\ffmpeg.exe
+D:\EntAir\CameraApp\StreamPlayerDemo\bin\Debug\ffmpeg\ffplay.exe
+D:\EntAir\CameraApp\StreamPlayerDemo\bin\Debug\ffmpeg\ffprobe.exe
+D:\EntAir\CameraApp\StreamPlayerDemo\bin\Debug\CameraApplication.exe.config
+D:\EntAir\CameraApp\StreamPlayerDemo\bin\Debug\CameraApplication.exe.manifest
+D:\EntAir\CameraApp\StreamPlayerDemo\bin\Debug\CameraApplication.application
+D:\EntAir\CameraApp\StreamPlayerDemo\bin\Debug\CameraApplication.exe
+D:\EntAir\CameraApp\StreamPlayerDemo\bin\Debug\CameraApplication.pdb
+D:\EntAir\CameraApp\StreamPlayerDemo\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\EntAir\CameraApp\StreamPlayerDemo\bin\Debug\WpfAnimatedGif.dll
+D:\EntAir\CameraApp\StreamPlayerDemo\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\EntAir\CameraApp\StreamPlayerDemo\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\EntAir\CameraApp\StreamPlayerDemo\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\EntAir\CameraApp\StreamPlayerDemo\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\EntAir\CameraApp\StreamPlayerDemo\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\EntAir\CameraApp\StreamPlayerDemo\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\EntAir\CameraApp\StreamPlayerDemo\bin\Debug\WpfAnimatedGif.xml
+D:\EntAir\CameraApp\StreamPlayerDemo\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\EntAir\CameraApp\StreamPlayerDemo\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\EntAir\CameraApp\StreamPlayerDemo\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\EntAir\CameraApp\StreamPlayerDemo\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\EntAir\CameraApp\StreamPlayerDemo\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\EntAir\CameraApp\StreamPlayerDemo\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\EntAir\CameraApp\StreamPlayerDemo\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\EntAir\CameraApp\StreamPlayerDemo\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\EntAir\CameraApp\StreamPlayerDemo\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\EntAir\CameraApp\StreamPlayerDemo\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\EntAir\CameraApp\StreamPlayerDemo\obj\Debug\CameraApp.csprojResolveAssemblyReference.cache
+D:\EntAir\CameraApp\StreamPlayerDemo\obj\Debug\KeyValuePairControl.baml
+D:\EntAir\CameraApp\StreamPlayerDemo\obj\Debug\autoscanProgress.g.cs
+D:\EntAir\CameraApp\StreamPlayerDemo\obj\Debug\CameraView.g.cs
+D:\EntAir\CameraApp\StreamPlayerDemo\obj\Debug\GpggaControl.g.cs
+D:\EntAir\CameraApp\StreamPlayerDemo\obj\Debug\GpgllControl.g.cs
+D:\EntAir\CameraApp\StreamPlayerDemo\obj\Debug\GprmcControl.g.cs
+D:\EntAir\CameraApp\StreamPlayerDemo\obj\Debug\KeyValuePairControl.g.cs
+D:\EntAir\CameraApp\StreamPlayerDemo\obj\Debug\MainWindow.g.cs
+D:\EntAir\CameraApp\StreamPlayerDemo\obj\Debug\Settings.g.cs
+D:\EntAir\CameraApp\StreamPlayerDemo\obj\Debug\App.g.cs
+D:\EntAir\CameraApp\StreamPlayerDemo\obj\Debug\CameraApplication_Content.g.cs
+D:\EntAir\CameraApp\StreamPlayerDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\EntAir\CameraApp\StreamPlayerDemo\obj\Debug\CameraApplication_MarkupCompile.cache
+D:\EntAir\CameraApp\StreamPlayerDemo\obj\Debug\CameraApplication_MarkupCompile.lref
+D:\EntAir\CameraApp\StreamPlayerDemo\obj\Debug\autoscanProgress.baml
+D:\EntAir\CameraApp\StreamPlayerDemo\obj\Debug\CameraView.baml
+D:\EntAir\CameraApp\StreamPlayerDemo\obj\Debug\GpggaControl.baml
+D:\EntAir\CameraApp\StreamPlayerDemo\obj\Debug\GpgllControl.baml
+D:\EntAir\CameraApp\StreamPlayerDemo\obj\Debug\GprmcControl.baml
+D:\EntAir\CameraApp\StreamPlayerDemo\obj\Debug\MainWindow.baml
+D:\EntAir\CameraApp\StreamPlayerDemo\obj\Debug\Settings.baml
+D:\EntAir\CameraApp\StreamPlayerDemo\obj\Debug\CameraApplication.g.resources
+D:\EntAir\CameraApp\StreamPlayerDemo\obj\Debug\CameraApplication.Properties.Resources.resources
+D:\EntAir\CameraApp\StreamPlayerDemo\obj\Debug\CameraApp.csproj.GenerateResource.Cache
+D:\EntAir\CameraApp\StreamPlayerDemo\obj\Debug\CameraApplication.exe.manifest
+D:\EntAir\CameraApp\StreamPlayerDemo\obj\Debug\CameraApplication.application
+D:\EntAir\CameraApp\StreamPlayerDemo\obj\Debug\CameraApplication.exe
+D:\EntAir\CameraApp\StreamPlayerDemo\obj\Debug\CameraApplication.pdb
+D:\EntAir\CameraApp\StreamPlayerDemo\bin\Debug\Unosquare.Labs.EmbedIO.dll
+D:\EntAir\CameraApp\StreamPlayerDemo\bin\Debug\Unosquare.Swan.dll
+D:\EntAir\CameraApp\StreamPlayerDemo\bin\Debug\Unosquare.Labs.EmbedIO.xml
+D:\EntAir\CameraApp\StreamPlayerDemo\bin\Debug\Unosquare.Swan.xml
+D:\EntAir\CameraApp\StreamPlayerDemo\bin\Debug\Webserver\index.html
+D:\EntAir\CameraApp\StreamPlayerDemo\bin\Debug\Webserver\img\check.png
+D:\EntAir\CameraApp\StreamPlayerDemo\bin\Debug\Webserver\scripts\app.controllers.js
+D:\EntAir\CameraApp\StreamPlayerDemo\bin\Debug\Webserver\scripts\app.directives.js
+D:\EntAir\CameraApp\StreamPlayerDemo\bin\Debug\Webserver\scripts\app.js
+D:\EntAir\CameraApp\StreamPlayerDemo\bin\Debug\Webserver\scripts\app.routes.js
+D:\EntAir\CameraApp\StreamPlayerDemo\bin\Debug\Webserver\scripts\app.services.js
+D:\EntAir\CameraApp\StreamPlayerDemo\bin\Debug\Webserver\scripts\tubular\tubular-bundle.css
+D:\EntAir\CameraApp\StreamPlayerDemo\bin\Debug\Webserver\scripts\tubular\tubular-bundle.js
+D:\EntAir\CameraApp\StreamPlayerDemo\bin\Debug\Webserver\scripts\tubular\tubular-bundle.min.css
+D:\EntAir\CameraApp\StreamPlayerDemo\bin\Debug\Webserver\scripts\tubular\tubular-bundle.min.js
+D:\EntAir\CameraApp\StreamPlayerDemo\bin\Debug\Webserver\css\theme.css
+D:\EntAir\CameraApp\StreamPlayerDemo\bin\Debug\Webserver\partials\app-menu.html
+D:\EntAir\CameraApp\StreamPlayerDemo\bin\Debug\Webserver\partials\app-person.html
+D:\EntAir\CameraApp\StreamPlayerDemo\bin\Debug\Webserver\views\info.html
+D:\EntAir\CameraApp\StreamPlayerDemo\bin\Debug\Webserver\views\people.html
+D:\EntAir\CameraApp\StreamPlayerDemo\bin\Debug\Webserver\views\tubular.html
+D:\EntAir\CameraApp\StreamPlayerDemo\bin\Debug\Webserver\views\cmd.html
+D:\EntAir\CameraApp\StreamPlayerDemo\bin\Debug\Webserver\views\home.html
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\KeyValuePairControl.baml
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\autoscanProgress.g.cs
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\GpggaControl.g.cs
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\GpgllControl.g.cs
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\GprmcControl.g.cs
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\KeyValuePairControl.g.cs
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\MainWindow.g.cs
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\Settings.g.cs
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\App.g.cs
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\CameraApplication_Content.g.cs
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\CameraApplication_MarkupCompile.cache
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\CameraApplication_MarkupCompile.lref
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\Webserver\views\people.html
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\Webserver\views\tubular.html
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\Webserver\partials\app-person.html
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\Webserver\views\cmd.html
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\Webserver\views\home.html
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\ffmpeg\ffmpeg.exe
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\ffmpeg\ffplay.exe
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\ffmpeg\ffprobe.exe
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\Webserver\css\theme.css
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\Webserver\index.html
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\Webserver\partials\app-menu.html
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\Webserver\scripts\app.controllers.js
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\Webserver\scripts\app.directives.js
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\Webserver\scripts\app.js
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\Webserver\scripts\app.routes.js
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\Webserver\scripts\app.services.js
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\Webserver\scripts\tubular\tubular-bundle.css
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\Webserver\scripts\tubular\tubular-bundle.js
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\Webserver\scripts\tubular\tubular-bundle.min.css
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\Webserver\scripts\tubular\tubular-bundle.min.js
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\Webserver\views\info.html
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\Webserver\img\check.png
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\CameraApplication.exe.config
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\CameraApplication.exe.manifest
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\CameraApplication.application
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\CameraApplication.exe
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\CameraApplication.pdb
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\NmeaParser.WinDesktop.dll
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\Unosquare.Labs.EmbedIO.dll
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\Unosquare.Swan.dll
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\WebcamControl.dll
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\WebEye.StreamPlayerControl.dll
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\WpfAnimatedGif.dll
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\NmeaParser.WinDesktop.pdb
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\NmeaParser.WinDesktop.xml
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\Unosquare.Labs.EmbedIO.xml
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\Unosquare.Swan.xml
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\CameraView.g.cs
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\autoscanProgress.baml
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\CameraView.baml
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\GpggaControl.baml
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\GpgllControl.baml
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\GprmcControl.baml
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\MainWindow.baml
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\Settings.baml
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\CameraApplication.g.resources
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\CameraApplication.Properties.Resources.resources
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\CameraApp.csproj.GenerateResource.Cache
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\CameraApplication.exe.manifest
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\CameraApplication.application
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\CameraApplication.exe
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\CameraApplication.pdb
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\Webserver\css\embedio-icon.png
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\Webserver\css\embedio.png
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\ffmpeg\adxl345.exe
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\CameraApp.csprojResolveAssemblyReference.cache
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\bin\Debug\PlaybackInfo\Get the Enterprise Air Video Player.url
+C:\Users\Alex\OneDrive\Enterprise Air\Camera System\CameraApp\StreamPlayerDemo\obj\Debug\CameraApp.csproj.CoreCompileInputs.cache

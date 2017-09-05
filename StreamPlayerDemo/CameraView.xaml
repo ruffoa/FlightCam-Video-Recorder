@@ -1,0 +1,89 @@
+﻿<Window x:Class="CameraApplication.CameraView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CameraApplication"
+        xmlns:gif="http://wpfanimatedgif.codeplex.com"
+        xmlns:webEye="clr-namespace:WebEye;assembly=WebEye.StreamPlayerControl"
+        mc:Ignorable="d"
+        Title="CameraView" Height="720" Width="1270">
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <webEye:StreamPlayerControl Grid.Column="0" x:Name="_streamPlayerControl"
+                                        StreamFailed="HandlePlayerEvent"
+                                        StreamStarted="HandlePlayerEvent"
+                                        StreamStopped="HandlePlayerEvent" Loaded="_streamPlayerControl_Loaded"/>
+            <webEye:StreamPlayerControl Grid.Column="1"  x:Name="_streamPlayerControl2"
+            StreamFailed="HandlePlayerEvent"
+            StreamStarted="HandlePlayerEvent"
+            StreamStopped="HandlePlayerEvent" Loaded="_streamPlayerControl2_Loaded"/>
+
+
+        </Grid>
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <webEye:StreamPlayerControl Grid.Column="0" x:Name="_streamPlayerControl3"
+            StreamFailed="HandlePlayerEvent"
+            StreamStarted="HandlePlayerEvent"
+            StreamStopped="HandlePlayerEvent"/>
+
+        </Grid>
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="8*"/>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+
+            <TextBox x:Name="_urlTextBox"
+                     Text="rtsp://192.168.1.200/axis-media/media.amp" Margin="0,0,10,0"/>
+            <TextBox x:Name="_statusLabel"
+                         IsEnabled="False" Margin="0,0,224,0" Grid.ColumnSpan="2" Grid.Column="1"/>
+            <Button Grid.Column="2"
+                Content=" Close Preview "
+                x:Name="_closePrev"
+                Click="_closePrev_Click" Margin="297,0,0,0"/>
+            <Button Grid.Column="3"
+                    Content=" Play "
+                    x:Name="_playButton"
+                    Click="HandlePlayButtonClick"/>
+            <Button Grid.Column="4"
+                    Content=" Stop "
+                    x:Name="_stopButton"
+                        IsEnabled="False"
+                    Click="HandleStopButtonClick"/>
+            <Button Grid.Column="5"
+                    Content=" Image... "
+                    x:Name="_imageButton"
+                        IsEnabled="False"
+                    Click="HandleImageButtonClick"/>
+            <TextBox x:Name="videoStatus"
+                Text="" Margin="901,0,72,0"/>
+            <CheckBox Name="useCustomURLChk" Content="Use Custom URL" Grid.Column="2" HorizontalAlignment="Left" Margin="184,3,0,0" VerticalAlignment="Top"/>
+
+        </Grid>
+        <Image Panel.ZIndex="999" Name="loadingGif" gif:ImageBehavior.AnimatedSource="Images/loader_img.gif" Height="312" Margin="470,241,368,0" VerticalAlignment="Top" Grid.RowSpan="2" Visibility="Hidden" />
+
+    </Grid>
+</Window>

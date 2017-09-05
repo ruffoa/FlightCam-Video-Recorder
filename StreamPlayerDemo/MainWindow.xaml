@@ -1,0 +1,135 @@
+﻿<Window x:Class="CameraApplication.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:CameraApplication"
+        xmlns:ed="http://schemas.microsoft.com/expression/2010/drawing"
+        xmlns:gif="http://wpfanimatedgif.codeplex.com"
+        Closing="Window_Closing" Closed="Window_Closed"
+        Title="MainWindow" Height="600" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+
+            <Grid Background="#FF2E2F45">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="4*"/>
+                        <ColumnDefinition Width="4*"/>
+                        <ColumnDefinition Width="5*" MinWidth="250"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Grid Grid.Column="0" HorizontalAlignment="Left" Width="352" Height="363" VerticalAlignment="Top">
+                        <ed:Arc StartAngle="-120" EndAngle="120" Stretch="None" 
+                    Height="235" StrokeThickness="20"      
+                    StrokeDashArray=".25" Stroke="#FF484D5F" Margin="10,10,117,0" VerticalAlignment="Top">
+                            <ed:Arc.BindingGroup>
+                                <BindingGroup/>
+                            </ed:Arc.BindingGroup>
+                        </ed:Arc>
+                        <ed:Arc x:Name="speedArc" StartAngle="-120" EndAngle="-120" Stretch="None" StrokeThickness="20"
+                    StrokeDashArray=".25" Stroke="Turquoise" Margin="10,10,117,118"/>
+                        <TextBlock x:Name="speedVal" Text="0" Foreground="White" HorizontalAlignment="Center"
+                        FontSize="80" FontWeight="Light" Margin="56,61,158,199" Width="138" TextAlignment="Center">
+                            <TextBlock.BindingGroup>
+                                <BindingGroup/>
+                            </TextBlock.BindingGroup>
+                        </TextBlock>
+                        <TextBlock Name="speedUnitText" Text="m/s" Foreground="#FF878A9F" HorizontalAlignment="Center"
+                        FontSize="16" Margin="85,61,190,283" Width="77" TextAlignment="Center"/>
+
+                        <TextBlock x:Name="accelerometerData" Text="" Foreground="White" HorizontalAlignment="Center"
+                            FontSize="30" FontWeight="Light" Margin="56,269,158,-1" Width="138" TextAlignment="Left" TextWrapping="WrapWithOverflow">
+                            <TextBlock.BindingGroup>
+                                <BindingGroup/>
+                            </TextBlock.BindingGroup>
+                        </TextBlock>
+                        <TextBlock x:Name="accelerometerDataInfo" Text="Accelerometer Data" Foreground="#FF878A9F" HorizontalAlignment="Center"
+                            FontSize="16" Margin="41,250,143,94" TextAlignment="Center" Visibility="Hidden"/>
+                        <Rectangle x:Name="xTiltBar" Fill="Turquoise" Width="-0" Margin="121,374,133,-35"/>
+                        <Canvas  Margin="10,364,108,-144">
+                            <Line Name="xAxisBar" X1="0" Y1="10" X2="0" Y2="10" Stroke="Turquoise" StrokeThickness="15" Canvas.Left="115" Canvas.Top="10" Height="24" Width="100" Visibility="Hidden" />
+                            <Line Name="yAxisBar" X1="0" Y1="10" X2="0" Y2="10" Stroke="Turquoise" StrokeThickness="15" Canvas.Left="115" Canvas.Top="58" Height="24" Width="100" Visibility="Hidden" />
+
+                        </Canvas>
+                    </Grid>
+
+                    <Grid Grid.Column="1">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="auto"/>
+                        </Grid.RowDefinitions>
+                        <Canvas Grid.Row="0">
+                            <Canvas HorizontalAlignment="Center">
+                                <TextBlock x:Name="altitudeVal" Text="0" Foreground="White" FontSize="80" FontWeight="Light" Width="182" TextAlignment="Center" VerticalAlignment="Top" Height="92" Canvas.Left="36" Canvas.Top="61">
+                                    <TextBlock.BindingGroup>
+                                        <BindingGroup/>
+                                    </TextBlock.BindingGroup>
+                                </TextBlock>
+                                <TextBlock Name="altitudeUnit" Text="feet" Foreground="#FF878A9F" HorizontalAlignment="Center" FontSize="16" Width="76" TextAlignment="Center" Canvas.Left="90" Canvas.Top="61"/>
+                                <TextBlock x:Name="gpsDirectionVal" Text="" Foreground="White" FontSize="40" FontWeight="Light" Width="182" TextAlignment="Center" VerticalAlignment="Top" Height="53" Canvas.Left="36" Canvas.Top="321">
+                                    <TextBlock.BindingGroup>
+                                        <BindingGroup/>
+                                    </TextBlock.BindingGroup>
+                                </TextBlock>
+                                <TextBlock x:Name="directionText" Text="Bearing" Foreground="#FF878A9F" HorizontalAlignment="Center" FontSize="16" Width="76" TextAlignment="Center" Canvas.Left="90" Canvas.Top="309"/>
+                            </Canvas>
+                            <Button x:Name="camOneRec" Content="Start Recording" HorizontalAlignment="Left"  VerticalAlignment="Top" Width="100" Height="30" RenderTransformOrigin="0.951,8.435" Canvas.Left="25" Canvas.Top="256" Click="camRec_Click"/>
+                            <Button x:Name="stopCamOne" Content="Stop Recording" HorizontalAlignment="Left"  VerticalAlignment="Top" Width="96" Height="30" RenderTransformOrigin="0.951,8.435" Canvas.Left="136" Canvas.Top="256" Click="stopCamRec_Click" />
+
+                        </Canvas>
+                        <Grid Grid.Row="1">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="0.05*"/>
+                                <ColumnDefinition Width="0.85*"/>
+                                <ColumnDefinition Width="0.1*"/>
+                            </Grid.ColumnDefinitions>
+                            <!--<TextBox x:Name="recordInfo" MinHeight="50" MinWidth="100" MaxHeight="180" VerticalScrollBarVisibility="Auto" TextWrapping="Wrap" Text="" Grid.ColumnSpan="3" Margin="-204,0,-271,0" Visibility="Visible" />-->
+                        </Grid>
+                    </Grid>
+                    <StackPanel Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,0,0,0">
+                        <local:GpggaControl x:Name="gpggaView" HorizontalAlignment="Stretch" Margin="0,10,0,0" Height="220" VerticalAlignment="Top" Foreground="White"/>
+                    </StackPanel>
+                </Grid>
+                <CheckBox Name="useMotionJpgChk" Content="useMJpg" HorizontalAlignment="Left" Margin="416,179,0,0" VerticalAlignment="Top" Foreground="White" Click="useMotionJpgChk_Click" IsChecked="True"/>
+                <CheckBox x:Name="useIntelQSV" Content="use Intel QSV (faster)" HorizontalAlignment="Left" Margin="268,179,0,0" VerticalAlignment="Top" Foreground="White" IsChecked="True"/>
+                <CheckBox x:Name="rec800p" Content="rec 800p" HorizontalAlignment="Left" Margin="416,208,0,0" VerticalAlignment="Top" Foreground="White" Click="useMotionJpgChk_Click" IsChecked="False"/>
+
+            </Grid>
+        </Grid>
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="8*"/>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+
+            <TextBox x:Name="_errorStatusLabel"
+                     Text="" Margin="0,0,69,0" Grid.ColumnSpan="2"/>
+            <TextBox x:Name="_statusLabel"
+                         IsEnabled="False" Grid.ColumnSpan="2" Margin="14,0,126,0" Grid.Column="1"/>
+            <Button Grid.Column="2"
+                Content=" Settings "
+                x:Name="_settingsButton"
+                Click="settingsBtn_Click" Margin="297,0,0,0"/>
+            <Button Grid.Column="3"
+                    Content=" Preview "
+                    x:Name="_playButton"
+                    Click="HandlePreviewButtonClick"/>
+        </Grid>
+        <TextBlock x:Name="accelerometerDataInfo_Copy" Text=" Pitch" Foreground="#FF878A9F" HorizontalAlignment="Center"
+                            FontSize="16" Margin="246,373,488,149" TextAlignment="Left" Width="58" Visibility="Hidden"/>
+        <TextBlock x:Name="accelerometerDataInfo_Copy1" Text=" Roll" Foreground="#FF878A9F" HorizontalAlignment="Center"
+                            FontSize="16" Margin="246,421,488,101" TextAlignment="Left" Width="58" Visibility="Hidden"/>
+
+
+
+    </Grid>
+</Window>
